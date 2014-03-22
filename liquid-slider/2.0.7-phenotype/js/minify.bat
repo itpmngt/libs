@@ -1,0 +1,1 @@
+cmd /k uglifyjs -o jquery.liquid-slider-1.1.min.js jquery.liquid-slider-1.1.js
