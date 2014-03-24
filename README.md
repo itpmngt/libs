@@ -1,4 +1,4 @@
-libs
+# libs
 ====
 
 Repository of several open libraries used in projects.
@@ -7,13 +7,15 @@ Spent a fair amount of time trying to use package managers to handle libraries a
 
 So here is where we take care of the libraries that we use. We have adopted a folder structure to use in an application to make it easy for maintenance (and automation with Grunt):
 
-/libs
-  /css
-  /fonts
-  /img
-  /js
+```
+app/
+└── libs/
+    ├── css
+    ├── fonts
+    ├── img
+    └── js
+```
 
-License
-=======
+## License
 
 Diiferent types of licenses according to each libray
