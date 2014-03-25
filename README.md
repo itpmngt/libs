@@ -12,6 +12,7 @@ app/
 └── libs/
     ├── css
     ├── fonts
+    ├── i18n
     ├── img
     └── js
 ```
